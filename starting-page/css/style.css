@@ -13,8 +13,8 @@ body.ypromo-site-bar-body #all {
 }
 
 .site-header .logo img {
-    width: 10%;
-    height: 75%;
+    width: 80px;
+    height: auto;
 }
 
 .purchase-link {
@@ -236,8 +236,14 @@ body.ypromo-site-bar-body #all {
 
 .pages-slider .ps-item {}
 
+.ps-item {
+    height:400px;
+
+}
+
 .pages-slider .ps-item img {
     width: 100%;
+    height: 100%;
     display: block;
 }
 
