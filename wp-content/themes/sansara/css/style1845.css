@@ -239,7 +239,7 @@ body.site-dark {
 }
 
 .header-container-container-fluid .wrap-lines .left {
-  margin-left: 87px;
+  margin-left: 5.5%;
 }
 
 .wrap-lines .right {
@@ -5307,7 +5307,7 @@ textarea.style2 {
 
 .slider-navigation .arrows {
   font-size: 11px;
-  margin-top: -3px;
+  margin-top: 1px;
 }
 
 .music-banner .slider-navigation .arrows {
